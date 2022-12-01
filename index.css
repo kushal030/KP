@@ -1,0 +1,10 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-image: url(gym.png);
+    background-repeat: no-repeat;
+}
+.container{
+    color:aliceblue;
+    border: 3px solid red;
+}
